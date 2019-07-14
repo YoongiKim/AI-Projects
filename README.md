@@ -14,7 +14,10 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=00028
 ### 뉴스에 나오는 수화를 학습, 수화가 없는 영상에도 수화를 넣어줄 수 있을 것.
 ![](images/sign.gif)
 
-KCC 제출 논문
+#### KCC 제출 논문
 ![](images/speech-to-signlang-1.png)
 ![](images/speech-to-signlang-2.png)
 ![](images/speech-to-signlang-3.png)
+
+# 소개 영상
+![](https://youtu.be/8kVJdV7qmNc)
