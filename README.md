@@ -1,6 +1,8 @@
 ## 시각장애인 안내하는 AI
 ### "인공지능이 볼 수 있는 능력을 가졌는데 시각 장애인을 위해 사용될 수 없을까?"
 ![](images/walk.gif)
+
+https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=0002848946&fbclid=IwAR3baXH1uDyqVX7rgfKh4dBTP5jr_J4Bkmfyye6W_zFGtuBAngpdQFztz_E
 ![](images/walk-1.png)
 ![](images/walk-2.png)
 ![](images/walk-3.png)
