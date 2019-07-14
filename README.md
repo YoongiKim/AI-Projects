@@ -19,6 +19,6 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=00028
 ![](images/speech-to-signlang-2.png)
 ![](images/speech-to-signlang-3.png)
 
-# 소개 영상
+## 꿈과 목표에 대한 이야기
 [![유튜브 영상](images/youtube.jpg)](https://www.youtube.com/watch?v=8kVJdV7qmNc)
 ![](https://youtu.be/8kVJdV7qmNc)
