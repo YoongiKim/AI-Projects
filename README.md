@@ -11,8 +11,10 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=00028
 ![](images/walk-6.jpg)
 
 ## 꿈과 목표에 대한 이야기
-[![유튜브 영상](images/youtube.jpg)](https://www.youtube.com/watch?v=8kVJdV7qmNc)
-![유튜브 영상](https://youtu.be/8kVJdV7qmNc)
+유튜브 영상
+
+[![](images/youtube.jpg)](https://www.youtube.com/watch?v=8kVJdV7qmNc)
+![](https://youtu.be/8kVJdV7qmNc)
 
 ## 음성을 수화로 번역해주는 인공지능
 ### 뉴스에 나오는 수화를 학습, 수화가 없는 영상에도 수화를 넣어줄 수 있을 것.
