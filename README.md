@@ -13,6 +13,8 @@ https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=025&aid=00028
 ## 음성을 수화로 번역해주는 인공지능
 ### 뉴스에 나오는 수화를 학습, 수화가 없는 영상에도 수화를 넣어줄 수 있을 것.
 ![](images/sign.gif)
+
+KCC 제출 논문
 ![](images/speech-to-signlang-1.png)
 ![](images/speech-to-signlang-2.png)
 ![](images/speech-to-signlang-3.png)
